@@ -1,0 +1,36 @@
+{
+  "expenses": [
+    {
+      "name": "pizza",
+      "amount": 500,
+      "date": "2026-03-25T18:58:34.413Z"
+    },
+    {
+      "name": "travel",
+      "amount": 200,
+      "date": "2026-03-25T18:58:51.443Z"
+    },
+    {
+      "name": "expense",
+      "amount": 1500,
+      "date": "2026-03-25T19:08:00.257Z"
+    },
+    {
+      "name": "unknown",
+      "amount": 500,
+      "date": "2026-03-25T19:15:32.654Z"
+    },
+    {
+      "name": "expense",
+      "amount": 2000,
+      "date": "2026-03-25T19:19:21.023Z"
+    }
+  ],
+  "income": [
+    {
+      "name": "salary",
+      "amount": 5000,
+      "date": "2026-03-25T19:19:02.410Z"
+    }
+  ]
+}
